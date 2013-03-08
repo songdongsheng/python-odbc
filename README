@@ -1,0 +1,12 @@
+Python-ODBC
+===========
+
+Python ODBC 3.x library (ctypes-based binding)
+
+Python-ODBC is  is a pure Python module that allows you to use ODBC to
+connect to almost any database from Windows, Linux, and more.
+
+See http://code.google.com/p/python-odbc/ for detailed installation
+instructions, platform-specific notes, and Python-ODBC user information.
+
+Python-ODBC is licensed under the Apache License 2.0, for details see LICENSE.
